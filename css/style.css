@@ -45,15 +45,6 @@ nav {
     font-size: 45px;
 }
 
-.crooked-bar {
-    position: absolute;
-    width: 150vw;
-    height: auto;
-    left: -500px;
-    z-index: -1;
-    top: 300px;
-}
-
 .jumpto {
     font-family: Arial;
     color: #ffffff;
@@ -327,7 +318,7 @@ nav {
 }
 
 .important-info-head {
-    width: 80vw;
+    width: 1300px;
 }
 
 .important-info-cont {
