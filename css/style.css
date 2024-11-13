@@ -78,6 +78,7 @@ nav {
     width: auto;
     height: 110px;
     background-color: #ffffff;
+    cursor: pointer;
 }
 
 .nav {
@@ -340,7 +341,7 @@ nav {
 }
 
 .roc-logo2 {
-    height: 400px;
+    height: 500px;
     width: auto;
 }
 
@@ -383,7 +384,26 @@ nav {
 
 /* -----------------------------s9------------------------------ */
 
-.section-9 {
+.section-9-row {
+    width: 100vw;
+    justify-content: space-evenly;
+
+}
+
+.internship-box {
+    height: 700px;
+    width: 400px;
+    background-color: #6e6eb485;
+    border-radius: 50px;
+    border: solid #000000 3px;
+    justify-content: space-evenly;
+    text-align: center;
+    font-size: 30px;
+    font-family: Arial;
+    padding: 30px;
+}
+
+.section-9-column {
     height: 700px;
     gap: 40px;
 }
