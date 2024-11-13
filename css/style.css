@@ -258,121 +258,6 @@ nav {
 /* -----------------------------s6------------------------------ */
 
 .section-6 {
-    height: 700px;
-    width: 100vw;
-    gap: 50px;
-}
-
-.important-info-head {
-    width: 80vw;
-}
-
-.important-info-cont {
-    gap: 250px;
-}
-
-.important-information {
-    font-family: Arial;
-    font-size: 25px;
-}
-
-.roc-logo2 {
-    height: 400px;
-    width: auto;
-}
-
-/* -----------------------------s7------------------------------ */
-
-.section-7 {
-    height: 700px;
-    gap: 40px;
-}
-
-.internship-cont {
-    width: 800px;
-    gap: 25px;
-    text-align: center;
-}
-
-.internship-text {
-    border: solid #000000 3px;
-    padding: 10px;
-    border-radius: 25px;
-    background-color: #6E6EB440;
-    color: #412F57;
-    font-family: Arial;
-    font-size: 25px;
-}
-
-/* -----------------------------s8------------------------------ */
-
-.section-8 {
-height: 300px;
-gap: 20px;
-}
-
-.books-txt {
-    text-align: center;
-    border: solid #000000 3px;
-    padding: 10px;
-    border-radius: 25px;
-    background-color: #6E6EB420;
-    color: #412F57;
-    font-family: Arial;
-    font-size: 25px;
-    width: 900px;
-}
-
-/* ---------------------------Footer----------------------------- */
-
-.footer {
-    height: 120px;
-    width: 100vw;
-    background-color: #98D3EA;
-    display: flex;
-    flex-direction: row;
-    justify-content: space-evenly;
-}
- 
-.logo-footer-roc  {
-    height: auto;
-    width: 40px;
-}
- 
-.logo-footer-adderess {
-    height: auto;
-    width: 30px;
-}
- 
-.logo-footer-phone {
-    height: auto;
-    width: 40px;
-}
- 
-.logo-footer-mail {
-    height: auto;
-    width: 40px;
-}
- 
-.footer-box {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    gap: 15px;
-    text-decoration: none;
-}
- 
-.tekst-footer {
-    font-size: 25px;
-    font-family: "Arial Rounded MT Bold", "Helvetica Rounded", Arial, sans-serif;
-    font-weight: bold;
-    color: #412F57;
-}
-
-/* ----------------------------s10------------------------------ */
-
-.talen {
     width: 100vw;
     height: 500px;
     display: flex;
@@ -433,9 +318,35 @@ gap: 20px;
     padding-right: 43px;
 }
 
-/* ---------------------------s11---------------------------- */
+/* -----------------------------s7------------------------------ */
 
-.sport-op-maat {
+.section-7 {
+    height: 700px;
+    width: 100vw;
+    gap: 50px;
+}
+
+.important-info-head {
+    width: 80vw;
+}
+
+.important-info-cont {
+    gap: 250px;
+}
+
+.important-information {
+    font-family: Arial;
+    font-size: 25px;
+}
+
+.roc-logo2 {
+    height: 400px;
+    width: auto;
+}
+
+/* -----------------------------s8------------------------------ */
+
+.section-8 {
     width: 100vw;
     height: 500px;
     display: flex;
@@ -464,6 +375,95 @@ gap: 20px;
 }
  
 .tekst-sport-op-maat-tekst {
+    font-size: 25px;
+    font-family: "Arial Rounded MT Bold", "Helvetica Rounded", Arial, sans-serif;
+    font-weight: bold;
+    color: #412F57;
+}
+
+/* -----------------------------s9------------------------------ */
+
+.section-9 {
+    height: 700px;
+    gap: 40px;
+}
+
+.internship-cont {
+    width: 800px;
+    gap: 25px;
+    text-align: center;
+}
+
+.internship-text {
+    border: solid #000000 3px;
+    padding: 10px;
+    border-radius: 25px;
+    background-color: #6E6EB440;
+    color: #412F57;
+    font-family: Arial;
+    font-size: 25px;
+}
+
+/* -----------------------------s10------------------------------ */
+
+.section-10 {
+height: 300px;
+gap: 20px;
+}
+
+.books-txt {
+    text-align: center;
+    border: solid #000000 3px;
+    padding: 10px;
+    border-radius: 25px;
+    background-color: #6E6EB420;
+    color: #412F57;
+    font-family: Arial;
+    font-size: 25px;
+    width: 900px;
+}
+
+/* ---------------------------Footer----------------------------- */
+
+.footer {
+    height: 120px;
+    width: 100vw;
+    background-color: #98D3EA;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+ 
+.logo-footer-roc  {
+    height: auto;
+    width: 40px;
+}
+ 
+.logo-footer-adderess {
+    height: auto;
+    width: 30px;
+}
+ 
+.logo-footer-phone {
+    height: auto;
+    width: 40px;
+}
+ 
+.logo-footer-mail {
+    height: auto;
+    width: 40px;
+}
+ 
+.footer-box {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+    text-decoration: none;
+}
+ 
+.tekst-footer {
     font-size: 25px;
     font-family: "Arial Rounded MT Bold", "Helvetica Rounded", Arial, sans-serif;
     font-weight: bold;
