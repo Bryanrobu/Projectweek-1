@@ -453,6 +453,11 @@ gap: 20px;
     flex-direction: row;
     justify-content: space-evenly;
 }
+
+.footermain {
+    position: absolute;
+    bottom: 0;
+}
  
 .logo-footer-roc  {
     height: auto;
