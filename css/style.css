@@ -8,14 +8,15 @@
 header {
     width: 100vw;
     height: 110px;
-    background-color: #3F2E56;
+    background-color: #3f2e56;
     overflow-y: hidden;
+    position: fixed;
 }
 
 nav {
     width: 65vw;
     height: 110px;
-    background-color: #3F2E56;
+    background-color: #3f2e56eb;
 }
 
 .center {
